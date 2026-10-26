@@ -3,7 +3,7 @@ import "./App.css";
 
 const services = [
   {
-    icon: "🪄",
+    icon: "<i class="fa-solid fa-wand-magic-sparkles"></i>",
     title: "Facials",
     description: "Refresh your skin & enjoy a healthy, radiant glow",
   },
