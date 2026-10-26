@@ -80,8 +80,8 @@ function App() {
               <span> confident every day</span>
             </h1>
             <p className="hero-description">
-              Your beauty, our passion. Enjoy professional <br />beauty services
-              designed to help you look and <br />feel your best
+              Your beauty, our passion. Enjoy professional beauty services
+              designed to help you look and feel your best
             </p>
             <a href="#services" className="button">
               Explore Services
